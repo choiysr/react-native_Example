@@ -1,9 +1,8 @@
 ## React-native Example in class(2020-01-20 ~ )
 
 ### 1.(0120) components_0120 folder : react-native StyleSheet, Linking, 버튼이벤트(onPress)
-### 2.(0121) app_0121,app2_0121,assets_0121 folder : 컴포넌트의 재사용, fetch()함수를 이용하여 웹(URL)에서 데이터 가져오기, 
-local경로 및 URL을 통한 이미지 불러오기, ScrollView을 이용한 화면 스크롤처리(horizontal={true})
-
+### 2.(0121) app_0121,app2_0121,assets_0121 folder : 컴포넌트의 재사용, fetch()함수를 이용하여 웹(URL)에서 데이터 가져오기, local경로 및 URL을 통한 이미지 불러오기, ScrollView을 이용한 화면 스크롤처리(horizontal={true})
+![img](https://user-images.githubusercontent.com/48176963/72778008-dc5c9680-3c5a-11ea-9741-ef0548b5e142.png)
 
   
   
